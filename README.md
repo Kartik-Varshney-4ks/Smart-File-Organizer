@@ -3,7 +3,6 @@
 A Python-based command-line file management application that automatically organizes files into categories, detects duplicate files using SHA-256 hashing, previews file operations, provides statistics and search, maintains activity logs, and supports undo functionality.
 
 ![Python](https://img.shields.io/badge/Python-3.x-blue?logo=python)
-![License](https://img.shields.io/badge/License-MIT-green)
 ![Platform](https://img.shields.io/badge/Platform-Windows-lightgrey)
 ![Status](https://img.shields.io/badge/Status-Active-success)
 
