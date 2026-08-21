@@ -85,9 +85,13 @@ Smart-File-Organizer/
 └── .gitignore
 ---
 
-## Copyright
+## 📄 License
 
-© 2026 Kartik Varshney. All rights reserved.
+Copyright © 2026 Kartik Varshney. All rights reserved.
 
-This project and its source code are the property of Kartik Varshney.
-Unauthorized copying, modification, distribution, or use of this code is not permitted without prior written permission.
+This project is publicly available for viewing and educational reference.
+
+Copying, modifying, distributing, publishing, selling, or reusing the
+source code without prior written permission is not permitted.
+
+See the [LICENSE](LICENSE) file for details.
