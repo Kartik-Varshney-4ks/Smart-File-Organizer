@@ -2,6 +2,23 @@
 
 A Python-based file management application that automatically organizes files into categories, detects duplicate files, provides file statistics and search, maintains an activity log, and supports undoing the last organization.
 
+## 📸 Screenshots
+
+### 🖥️ Main Menu
+
+![Main Menu](screenshots/main-menu.png)
+
+### 📋 Organization Preview
+
+![Organization Preview](screenshots/preview.png)
+
+### 📊 File Statistics
+
+![File Statistics](screenshots/statistics.png)
+
+### ↩️ Undo Organization
+
+![Undo Organization](screenshots/undo.png)
 ## 🚀 Features
 
 - 📂 Automatic File Organization
